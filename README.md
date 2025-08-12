@@ -1,2 +1,2 @@
-# Imersao_Python_Alura
-Mini Curso de 4 aulas de iniciação ao python.
+# Imersao em Python Alura
+Mini Curso de 4 aulas de iniciação a ciencia de dados com python.
